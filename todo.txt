@@ -6,5 +6,3 @@ T3
 T5
 
 Das ist eine neue Änderung.
-
-Online-Änderung
